@@ -61,7 +61,7 @@ setup(
         'Jinja2>=2.7.0,<3',
         'cryptography>=2.8,<3',
         'PyJWT>=1.0,<2.0',
-        'pathlib>=1.0.1,<1.1',
+        'markupsafe>=2.0.1,<2.1',
         'jsonschema>=2.4.0,<3.0',
         'argcomplete>=0.8.0,<2.0',
         'mbed_test_wrapper>=0.0.3,<2.0.0',
